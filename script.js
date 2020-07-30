@@ -37,11 +37,6 @@ new Vue({
                 title: 'Designers MX - Open Space',
                 author: 'Kyle Barret',
                 tracks: [{
-                    artist: "SolMonS",
-		            name: "ZE1A1",
-		            url: "Music/ZE1A1.mp3",
-		            picture: "https://i.imgur.com/Hforyb8.jpg"
-                }, {
                     title: 'Dayvan Cowboy',
                     artist: 'Boards of Canada',
                     album: 'The Campfire Headphase',
