@@ -39,7 +39,7 @@ new Vue({
                 tracks: [{
                     artist: "SolMonS",
 		            name: "ZE1A1",
-		            url: "Musics/ZE1A1.mp3",
+		            url: "Music/ZE1A1.mp3",
 		            picture: "https://i.imgur.com/Hforyb8.jpg"
                 }, {
                     title: 'Dayvan Cowboy',
