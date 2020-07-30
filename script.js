@@ -37,14 +37,10 @@ new Vue({
                 title: 'Designers MX - Open Space',
                 author: 'Kyle Barret',
                 tracks: [{
-                    title: 'Window',
-                    artist: 'The Album Leaf',
-                    album: 'In a Safe Place',
-                    duration: 274,
-                    cover: {
-                        small: 'http://is5.mzstatic.com/image/pf/us/r30/Music/y2004/m06/d11/h18/s05.tjsjltyd.100x100-75.jpg',
-                        large: 'https://yuq.me/albums/79/690/3374011100.jpg'
-                    }
+                    artist: "SolMonS",
+		            name: "ZE1A1",
+		            url: "Musics/ZE1A1.mp3",
+		            picture: "https://i.imgur.com/Hforyb8.jpg"
                 }, {
                     title: 'Dayvan Cowboy',
                     artist: 'Boards of Canada',
